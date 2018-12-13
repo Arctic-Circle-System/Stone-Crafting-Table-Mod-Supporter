@@ -51,7 +51,6 @@ oreCobble.add(<simpleundergroundbiomes:rhyolite_cobblestone>);
 oreCobble.add(<simpleundergroundbiomes:slate_cobblestone>);
 oreCobble.add(<undergroundbiomes:igneous_cobble:*>);
 oreCobble.add(<undergroundbiomes:metamorphic_cobble:*>);
-oreCobble.add(<quark:biome_cobblestone:*>);
 oreCobble.add(<minecraft:cobblestone>);
 
 // ================================================================================
